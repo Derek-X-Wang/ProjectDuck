@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AAW| Woodshop</key>
+	<dict>
+		<key>la</key>
+		<real>44.048178</real>
+		<key>lo</key>
+		<real>-123.071046</real>
+	</dict>
+	<key>AGH| Agate Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.040209900000001</real>
+		<key>lo</key>
+		<real>-123.06913179999999</real>
+	</dict>
+	<key>ALDR| Alder Building</key>
+	<dict>
+		<key>la</key>
+		<real>44.043038500000002</real>
+		<key>lo</key>
+		<real>-123.0798238</real>
+	</dict>
+	<key>ALL| Allen Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.046381400000001</real>
+		<key>lo</key>
+		<real>-123.0750522</real>
+	</dict>
+	<key>ANS| Anstett Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.045763999999998</real>
+		<key>lo</key>
+		<real>-123.077218</real>
+	</dict>
+	<key>ART| Fine Arts Studios</key>
+	<dict>
+		<key>la</key>
+		<real>44.048529000000002</real>
+		<key>lo</key>
+		<real>-123.071158</real>
+	</dict>
+	<key>AUZ| Autzen Stadium</key>
+	<dict>
+		<key>la</key>
+		<real>4.0579929999999997</real>
+		<key>lo</key>
+		<real>-123.06851399999999</real>
+	</dict>
+	<key>BEA| Bean Complex</key>
+	<dict>
+		<key>la</key>
+		<real>44.043792600000003</real>
+		<key>lo</key>
+		<real>-123.0675069</real>
+	</dict>
+	<key>CAR| Carson Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.045084699999997</real>
+		<key>lo</key>
+		<real>-123.0716355</real>
+	</dict>
+	<key>CAS| Cascade Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.046332900000003</real>
+		<key>lo</key>
+		<real>-123.0736854</real>
+	</dict>
+	<key>CAX| Cascade Annex</key>
+	<dict>
+		<key>la</key>
+		<real>44.046778000000003</real>
+		<key>lo</key>
+		<real>-123.07362000000001</real>
+	</dict>
+	<key>CC| Computing Center</key>
+	<dict>
+		<key>la</key>
+		<real>44.046379999999999</real>
+		<key>lo</key>
+		<real>-123.07824100000001</real>
+	</dict>
+	<key>CHA| Chapman Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.045313</real>
+		<key>lo</key>
+		<real>-123.077268</real>
+	</dict>
+	<key>CHI| Chiles Business Center</key>
+	<dict>
+		<key>la</key>
+		<real>44.045907999999997</real>
+		<key>lo</key>
+		<real>-123.078318</real>
+	</dict>
+	<key>CH| Collier House</key>
+	<dict>
+		<key>la</key>
+		<real>44.044958999999999</real>
+		<key>lo</key>
+		<real>-123.07507</real>
+	</dict>
+	<key>CLS| Clinical Services Building</key>
+	<dict>
+		<key>la</key>
+		<real>44.040489200000003</real>
+		<key>lo</key>
+		<real>-123.07912399999999</real>
+	</dict>
+	<key>COL| Columbia Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.045794999999998</real>
+		<key>lo</key>
+		<real>-123.074168</real>
+	</dict>
+	<key>CON| Condon Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.0451269</real>
+		<key>lo</key>
+		<real>-123.0782031</real>
+	</dict>
+	<key>DEA| Deady Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.046615299999999</real>
+		<key>lo</key>
+		<real>-123.076454</real>
+	</dict>
+	<key>DES| Deschutes Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.045909199999997</real>
+		<key>lo</key>
+		<real>-123.07111519999999</real>
+	</dict>
+	<key>EARL| Earl Complex</key>
+	<dict>
+		<key>la</key>
+		<real>44.043847</real>
+		<key>lo</key>
+		<real>-123.072659</real>
+	</dict>
+	<key>ED| Lokey Education Building</key>
+	<dict>
+		<key>la</key>
+		<real>44.042462100000002</real>
+		<key>lo</key>
+		<real>-123.07897149999999</real>
+	</dict>
+	<key>EMU| Erb Memorial Union</key>
+	<dict>
+		<key>la</key>
+		<real>44.044674000000001</real>
+		<key>lo</key>
+		<real>-123.073752</real>
+	</dict>
+	<key>ESL| Esslinger Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.042566000000001</real>
+		<key>lo</key>
+		<real>-123.074077</real>
+	</dict>
+	<key>FEN| Fenton Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.045783100000001</real>
+		<key>lo</key>
+		<real>-123.0764623</real>
+	</dict>
+	<key>FH| Urban Farm</key>
+	<dict>
+		<key>la</key>
+		<real>44.047834000000002</real>
+		<key>lo</key>
+		<real>-123.07109</real>
+	</dict>
+	<key>FORD| Ford Alumni Center</key>
+	<dict>
+		<key>la</key>
+		<real>44.045079399999999</real>
+		<key>lo</key>
+		<real>-123.0675889</real>
+	</dict>
+	<key>FRNK| Franklin Building</key>
+	<dict>
+		<key>la</key>
+		<real>44.046855000000001</real>
+		<key>lo</key>
+		<real>-123.067615</real>
+	</dict>
+	<key>FR| Friendly Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.045828</real>
+		<key>lo</key>
+		<real>-123.075078</real>
+	</dict>
+	<key>GER| Gerlinger Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.0435874</real>
+		<key>lo</key>
+		<real>-123.075777</real>
+	</dict>
+	<key>GRX| Gerlinger Annex</key>
+	<dict>
+		<key>la</key>
+		<real>44.043231499999997</real>
+		<key>lo</key>
+		<real>-123.0765743</real>
+	</dict>
+	<key>GSH| Global Scholars Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.042693800000002</real>
+		<key>lo</key>
+		<real>-123.0670219</real>
+	</dict>
+	<key>HAM| Hamilton Complex</key>
+	<dict>
+		<key>la</key>
+		<real>44.044766899999999</real>
+		<key>lo</key>
+		<real>-123.0688384</real>
+	</dict>
+	<key>HED| HEDCO Education Building</key>
+	<dict>
+		<key>la</key>
+		<real>44.041543900000001</real>
+		<key>lo</key>
+		<real>-123.0791385</real>
+	</dict>
+	<key>HEN| Hendricks Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.044136999999999</real>
+		<key>lo</key>
+		<real>-123.0752186</real>
+	</dict>
+	<key>HEP| High School Equivalency Program</key>
+	<dict>
+		<key>la</key>
+		<real>44.044136999999999</real>
+		<key>lo</key>
+		<real>-123.0752186</real>
+	</dict>
+	<key>HUE| Huestis Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.045907</real>
+		<key>lo</key>
+		<real>-123.07197499999999</real>
+	</dict>
+	<key>JAQ| Jaqua Academic Center</key>
+	<dict>
+		<key>la</key>
+		<real>44.045875000000002</real>
+		<key>lo</key>
+		<real>-123.069114</real>
+	</dict>
+	<key>JSMA| Schnitzer Museum of Art</key>
+	<dict>
+		<key>la</key>
+		<real>44.044404</real>
+		<key>lo</key>
+		<real>-123.076819</real>
+	</dict>
+	<key>KLA| Klamath Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.046398000000003</real>
+		<key>lo</key>
+		<real>-123.072602</real>
+	</dict>
+	<key>KNI| Knight Law Center</key>
+	<dict>
+		<key>la</key>
+		<real>44.042529000000002</real>
+		<key>lo</key>
+		<real>-123.06917</real>
+	</dict>
+	<key>LA| Lawrence Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.047221999999998</real>
+		<key>lo</key>
+		<real>-123.074859</real>
+	</dict>
+	<key>LBC| Lillis Business Complex</key>
+	<dict>
+		<key>la</key>
+		<real>44.046128000000003</real>
+		<key>lo</key>
+		<real>-123.07758800000001</real>
+	</dict>
+	<key>LIB| Knight Library</key>
+	<dict>
+		<key>la</key>
+		<real>44.044542</real>
+		<key>lo</key>
+		<real>-123.0782055</real>
+	</dict>
+	<key>LIL| Lillis Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.046128000000003</real>
+		<key>lo</key>
+		<real>-123.07758800000001</real>
+	</dict>
+	<key>LISB| Lewis Integrative Science</key>
+	<dict>
+		<key>la</key>
+		<real>44.046377300000003</real>
+		<key>lo</key>
+		<real>-123.07128659999999</real>
+	</dict>
+	<key>LLCN| Living-Learning Center (North)</key>
+	<dict>
+		<key>la</key>
+		<real>44.044238700000001</real>
+		<key>lo</key>
+		<real>-123.0716776</real>
+	</dict>
+	<key>LLCS| Living-Learning Center (South)</key>
+	<dict>
+		<key>la</key>
+		<real>44.043627000000001</real>
+		<key>lo</key>
+		<real>-123.071696</real>
+	</dict>
+	<key>MAC| McArthur Court</key>
+	<dict>
+		<key>la</key>
+		<real>44.041725</real>
+		<key>lo</key>
+		<real>-123.074122</real>
+	</dict>
+	<key>MCK| McKenzie Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.047047999999997</real>
+		<key>lo</key>
+		<real>-123.078231</real>
+	</dict>
+	<key>MIL| Military Science</key>
+	<dict>
+		<key>la</key>
+		<real>44.041615999999998</real>
+		<key>lo</key>
+		<real>-123.06935900000001</real>
+	</dict>
+	<key>MKA| Knight Arena</key>
+	<dict>
+		<key>la</key>
+		<real>44.044719000000001</real>
+		<key>lo</key>
+		<real>-123.065684</real>
+	</dict>
+	<key>MNH| Museum of Natural and Cultural History</key>
+	<dict>
+		<key>la</key>
+		<real>44.042954000000002</real>
+		<key>lo</key>
+		<real>-123.068016</real>
+	</dict>
+	<key>MNL| Many Nations Longhouse</key>
+	<dict>
+		<key>la</key>
+		<real>44.042146000000002</real>
+		<key>lo</key>
+		<real>-123.0683035</real>
+	</dict>
+	<key>MR1| Millrace Studio 1</key>
+	<dict>
+		<key>la</key>
+		<real>44.048374799999998</real>
+		<key>lo</key>
+		<real>-123.07196039999999</real>
+	</dict>
+	<key>MR2| Millrace Studio 1</key>
+	<dict>
+		<key>la</key>
+		<real>44.048374799999998</real>
+		<key>lo</key>
+		<real>-123.07196039999999</real>
+	</dict>
+	<key>MR3| Millrace Studio 1</key>
+	<dict>
+		<key>la</key>
+		<real>44.048374799999998</real>
+		<key>lo</key>
+		<real>-123.07196039999999</real>
+	</dict>
+	<key>MR4| Millrace Studio 1</key>
+	<dict>
+		<key>la</key>
+		<real>44.047391699999999</real>
+		<key>lo</key>
+		<real>-123.0710076</real>
+	</dict>
+	<key>MS| Media Services, Knight Library</key>
+	<dict>
+		<key>la</key>
+		<real>44.043078700000002</real>
+		<key>lo</key>
+		<real>-123.0771663</real>
+	</dict>
+	<key>MUS| Frohnmayer Music Building</key>
+	<dict>
+		<key>la</key>
+		<real>44.040847999999997</real>
+		<key>lo</key>
+		<real>-123.0779594</real>
+	</dict>
+	<key>NILI| Northwest Indian Language Institute (NILI)</key>
+	<dict>
+		<key>la</key>
+		<real>44.041765699999999</real>
+		<key>lo</key>
+		<real>-123.06633170000001</real>
+	</dict>
+	<key>ONY| Onyx Bridge</key>
+	<dict>
+		<key>la</key>
+		<real>44.04663</real>
+		<key>lo</key>
+		<real>-123.073194</real>
+	</dict>
+	<key>OR| Oregon Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.045908300000001</real>
+		<key>lo</key>
+		<real>-123.0703781</real>
+	</dict>
+	<key>PAC| Pacific Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.046474000000003</real>
+		<key>lo</key>
+		<real>-123.07418800000001</real>
+	</dict>
+	<key>PETR| Peterson Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.045769</real>
+		<key>lo</key>
+		<real>-123.07798699999999</real>
+	</dict>
+	<key>PLC| Prince Lucien Campbell Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.044268700000003</real>
+		<key>lo</key>
+		<real>-123.0783378</real>
+	</dict>
+	<key>REC| Student Recreation Center</key>
+	<dict>
+		<key>la</key>
+		<real>44.042962000000003</real>
+		<key>lo</key>
+		<real>-123.073143</real>
+	</dict>
+	<key>RNR| Rainier Builing</key>
+	<dict>
+		<key>la</key>
+		<real>44.045529899999998</real>
+		<key>lo</key>
+		<real>-123.06163979999999</real>
+	</dict>
+	<key>ROB| Robinson Theatre</key>
+	<dict>
+		<key>la</key>
+		<real>44.047092999999997</real>
+		<key>lo</key>
+		<real>-123.07690100000001</real>
+	</dict>
+	<key>RRP| Riverfront Research Park</key>
+	<dict>
+		<key>la</key>
+		<real>44.048315000000002</real>
+		<key>lo</key>
+		<real>-123.068186</real>
+	</dict>
+	<key>SC| Susan Campbell Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.044086</real>
+		<key>lo</key>
+		<real>-123.076397</real>
+	</dict>
+	<key>SGR| Streisinger Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.046444000000001</real>
+		<key>lo</key>
+		<real>-123.071894</real>
+	</dict>
+	<key>STB| Straub Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.043833999999997</real>
+		<key>lo</key>
+		<real>-123.07306800000001</real>
+	</dict>
+	<key>STC| Student Tennis Center</key>
+	<dict>
+		<key>la</key>
+		<real>44.041504000000003</real>
+		<key>lo</key>
+		<real>-123.07312899999999</real>
+	</dict>
+	<key>UHC| University Health, Counseling, and Testing Center</key>
+	<dict>
+		<key>la</key>
+		<real>44.045135999999999</real>
+		<key>lo</key>
+		<real>-123.07031000000001</real>
+	</dict>
+	<key>VIL| Vilard Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.047119100000003</real>
+		<key>lo</key>
+		<real>-123.076734</real>
+	</dict>
+	<key>VOL| Volcanology Building</key>
+	<dict>
+		<key>la</key>
+		<real>44.045830500000001</real>
+		<key>lo</key>
+		<real>-123.07372580000001</real>
+	</dict>
+	<key>WAL| Walton Complex</key>
+	<dict>
+		<key>la</key>
+		<real>44.043962000000001</real>
+		<key>lo</key>
+		<real>-123.070576</real>
+	</dict>
+	<key>WH| Wilkinson House</key>
+	<dict>
+		<key>la</key>
+		<real>44.048318299999998</real>
+		<key>lo</key>
+		<real>-123.0723516</real>
+	</dict>
+	<key>WIL| Willamette Hall</key>
+	<dict>
+		<key>la</key>
+		<real>44.045946000000001</real>
+		<key>lo</key>
+		<real>-123.072756</real>
+	</dict>
+	<key>YLC| Yamada Language Center</key>
+	<dict>
+		<key>la</key>
+		<real>44.046306299999998</real>
+		<key>lo</key>
+		<real>-123.0740485</real>
+	</dict>
+</dict>
+</plist>

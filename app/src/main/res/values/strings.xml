@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectDuck</string>
+    <string name="splash_version">ProjectDuck Version 0.0.1 @IntBridge</string>
+    <string name="action_currentlocation">mycurrentlocation</string>
+</resources>
